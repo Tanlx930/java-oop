@@ -1,0 +1,9 @@
+lecturerUsername, date, slot, studentUsername,status,lecturerfeedback,studentfeedback
+111,2024-11-27,15:30 - 16:00,123,booked
+111,2024-11-27,15:30 - 16:00,123,rescheduling
+111,2024-11-27,15:30 - 16:00,123,rescheduling
+111,2024-11-29,10:00 - 10:30,123,done,goof,321
+111,2024-11-25,10:00 - 10:30,123,done,111,null
+111,2024-11-27,11:30 - 12:00,123,booked
+111,2024-11-27,15:00 - 15:30,stu1,booked
+lec30,2024-12-01,14:00 - 14:30,Student,rescheduling
